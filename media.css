@@ -1,0 +1,413 @@
+@media only screen and (min-width : 1920px) {
+
+}
+
+@media only screen and (max-width : 1440px) {
+    .intro{
+        font-size: 63px;
+    }
+    .intro2{
+        font-size: 28px;
+    }
+    .intro3{
+        font-size: 21px;
+    }
+    .intro3_1{
+        font-size: 20px;
+    }
+    .intro3_2{
+        font-size: 21px;
+    }
+    .footer{
+        font-size: 13px;
+    }
+
+    .icons{
+        font-size: 13px;
+    }
+
+    .insta{
+        padding-right: 16px !important;
+        padding-left: 16px !important;
+    }
+
+    .twitter{
+        padding-right: 16px !important;
+        padding-left: 16px !important;
+    }
+    .yt{
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+
+    .mail{
+        padding-right: 16px !important;
+        padding-left: 16px !important;
+    }
+
+    .subscribe{
+        margin-left: 12px;
+    }
+}
+
+
+@media only screen and (max-width : 1200px) {
+    .subscribe{
+        margin-left: 13px;
+    }
+    .ph{
+        font-size: 2vw;
+    }
+    .dsclaimer{
+        font-size: 2vw;
+    }
+
+    .ds_title{
+        font-size: 3vw;
+    }
+}
+
+@media only screen and (max-width : 992px) {
+    .subscribe{
+        margin-left: 10px;
+    }
+    .gif_1{
+        width:19vw;
+        margin-left: -20vw;
+    }
+    .gif_2{
+    width:19vw;
+    margin-left: -5vw;
+    }
+    .gif_3{
+        width:19vw;
+        margin-left: 10vw;
+    }
+    .intro{
+        margin-left: 4vw;
+        font-size: 50px;
+    }
+    .intro2{
+        margin-left: 4vw;
+        font-size: 25px;
+    }
+    .intro3{
+        margin-top: 6vh;
+        margin-left: 1vw;
+        font-size: 2vw;
+    }
+
+    .intro3_1{
+        margin-left: 0.4vw;
+        font-size: 1.9vw;
+    }
+    .intro3_2{
+        margin-left: 0.4vw;
+        font-size: 1.9vw;
+    }
+    .icons{
+        margin-left: -2vw;
+        border: none;
+        font-size: 14px;
+    }
+    .ds_title{
+        font-size: 3vw;
+    }
+}
+@media only screen and (max-width : 768px) {
+    .gif_1{
+        width:18vw;
+        margin-left: -20vw;
+    }
+    .gif_2{
+    width:18vw;
+    margin-left: -5vw;
+    }
+    .gif_3{
+        width:18vw;
+        margin-left: 10vw;
+    }
+    .intro{
+        margin-left: 4vw;
+        font-size: 50px;
+    }
+    .intro2{
+        margin-left: 4vw;
+        font-size: 25px;
+    }
+    .intro3{
+        margin-top: 6vh;
+        margin-left: 4vw;
+        font-size: 2vw;
+    }
+
+    .intro3_1{
+        margin-left: 3.3vw;
+        font-size: 1.9vw;
+    }
+    .intro3_2{
+        margin-left: 2vw;
+        font-size: 1.9vw;
+    }
+    .icons{
+        border: none;
+    }
+
+    .ph{
+        font-size: 3vw;
+    }
+
+    .dsclaimer{
+        font-size: 2vw;
+    }
+
+}
+
+@media only screen and (max-width : 575px) {
+    .gif_1{
+        width:25vw;
+        margin-left: -20vw;
+    }
+    .gif_2{
+    width:25vw;
+    margin-left: -5vw;
+    }
+    .gif_3{
+        width:25vw;
+        margin-left: 10vw;
+
+    }
+    .ds_title{
+        font-size: 4vw;
+    }
+
+    .icons{
+        margin-left: -1vw;
+    }
+
+    .intro3{
+        margin-top: 6vh;
+        margin-left: 4vw;
+        font-size: 3vw;
+    }
+    .intro{
+        margin-left: 4vw;
+        font-size: 50px;
+    }
+    .intro2{
+        margin-left: 4vw;
+        font-size: 25px;
+    }
+    .intro3_1{
+        margin-left: 4vw;
+        font-size: 2.8vw;
+    }
+    .intro3_2{
+        margin-left: 2vw;
+        font-size: 2.8vw;
+    }
+}
+
+@media only screen and (max-width : 425px) {
+    .logo2{
+        width: 30vw;
+    }
+    .intro{
+        font-size: 26px;
+    }
+    .intro2{
+        font-size: 14px;
+    }
+    .intro3{
+        margin-top: 6vh;
+        margin-left: 6vw;
+        font-size: 3.1vw;
+        text-align: justify;
+    }
+    .intro3_1{
+        margin-left: 4vw;
+        font-size: 3vw;
+        text-align: justify;
+    }
+
+    .intro3_2{
+        font-size: 3.1vw;
+    }
+    .gif_1{
+        width:25vw;
+        margin-left: -20vw;
+    }
+    .gif_2{
+    width:25vw;
+    margin-left: -5vw;
+    }
+    .gif_3{
+        width:25vw;
+        margin-left: 10vw;
+
+    }
+    
+    .footer{
+        margin-left: 30vw;
+        font-size: 10px;
+    }
+
+    .icons{
+        margin-left: -6vw;
+        font-size: 4vw;
+        border: hidden;
+    }
+
+    .icon-group{
+        margin-left: -1vw;
+    }
+
+    .subscribe{
+        margin-left: -1vw;
+    }
+
+    .ph{
+        font-size: 4vw;
+    }
+    .dsclaimer{
+        font-size: 18px;
+    }
+    .ds_title{
+        font-size: 5vw;
+    }
+
+}
+
+@media only screen and (max-width : 375px) {
+    .logo2{
+        width: 30vw;
+    }
+    .intro{
+        font-size: 26px;
+    }
+    .intro2{
+        font-size: 14px;
+    }
+    .intro3{
+        margin-top: 6vh;
+        margin-left: 3.2vw;
+        font-size: 3.2vw;
+        text-align: justify;
+    }
+    .intro3_1{
+        margin-left: 3vw;
+        font-size: 3vw;
+        text-align: justify;
+    }
+
+    .intro3_2{
+        margin-right: 3.3vw;
+        font-size: 3.2vw;
+    }
+    .gif_1{
+        width:25vw;
+        margin-left: -20vw;
+    }
+    .gif_2{
+    width:25vw;
+    margin-left: -5vw;
+    }
+    .gif_3{
+        width:25vw;
+        margin-left: 10vw;
+
+    }
+    
+    .footer{
+        margin-left: 30vw;
+        font-size: 10px;
+    }
+
+    .icons{
+        margin-left: -6vw;
+        font-size: 4vw;
+        border: hidden;
+    }
+
+    .subscribe{
+        margin-left: 0.5vw;
+    }
+
+    .ph{
+        font-size: 5vw;
+    }
+    .dsclaimer{
+        font-size: 18px;
+    }
+
+    .ds_title{
+        font-size: 6vw;
+    }
+    .icon-group{
+        margin-left: -4vw;
+    }
+}
+
+@media only screen and (max-width : 320px) {
+    .logo2{
+        width: 30vw;
+    }
+    .intro{
+        font-size: 26px;
+    }
+    .intro2{
+        font-size: 14px;
+    }
+    .intro3{
+        margin-top: 6vh;
+        margin-left: 2.7vw;
+        font-size: 3.2vw;
+        text-align: justify;
+    }
+    .intro3_1{
+        margin-left: 2.5vw;
+        font-size: 3vw;
+        text-align: justify;
+    }
+
+    .intro3_2{
+        margin-left: 2vw;
+        font-size: 3.2vw;
+    }
+    .gif_1{
+        width:25vw;
+        margin-left: -20vw;
+    }
+    .gif_2{
+    width:25vw;
+    margin-left: -5vw;
+    }
+    .gif_3{
+        width:25vw;
+        margin-left: 10vw;
+
+    }
+    
+    .footer{
+        margin-left: 30vw;
+        font-size: 10px;
+    }
+
+    .icons{
+        margin-left: -6vw;
+        font-size: 4vw;
+        border: hidden;
+    }
+
+    .icon-group{
+        margin-right: -2vw;
+    }
+
+    .subscribe{
+        margin-left: 0.5vw;
+    }
+
+    .dsclaimer{
+        font-size: 18px;
+    }
+}

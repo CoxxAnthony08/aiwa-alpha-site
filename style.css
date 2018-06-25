@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'Marydale';
+    src: url('font/marydale.ttf');
+  }
+  @font-face {
+    font-family: 'Museo-sans';
+    src: url('font/MuseoSansCyrl.otf');
+  }
+
+.logo2{
+    margin-top: 1.5%;
+}
+
+.intro{
+    color: #ff0d00;
+    font-family: 'Marydale', serif;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.intro2{
+    color: #080808;
+    font-size: 33px;
+    font-family: 'Museo-sans', sans-serif;
+    font-weight: 100;
+}
+
+.intro3{
+    color: #929292;
+    font-family: 'Museo-sans', sans-serif;
+    font-weight: 100;
+    font-size: 23px;
+    margin: 0;
+}
+
+.intro3_1{
+    color: #929292;
+    font-family: 'Museo-sans', sans-serif;
+    font-weight: 100;
+    font-size: 21.8px;
+    margin: 0;
+}
+
+.intro3_2{
+    color: #929292;
+    font-family: 'Museo-sans', sans-serif;
+    font-weight: 100;
+    font-size: 21.8px;
+    margin: 0;
+}
+
+.gif-3{
+    margin-left: -3%;
+}
+
+.ds_title{
+    font-family: 'Museo-sans', sans-serif;
+    font-size: 1.5vw;
+    font-weight: 100;
+}
+
+.footer{
+    bottom: 0;
+    margin-bottom: 0;
+}
+
+.icons{
+    border: #080808 solid 2px;
+    border-radius: 50% ;
+    font-size: 20px;
+    padding: 15px 15px 15px 15px;
+    color: #080808;
+}
+
+.dsclaimer{
+    font-family: 'Museo-sans', sans-serif;
+    font-size: 1vw;
+    font-weight: 100;
+}
+
+.ph{
+    font-family: 'Museo-sans', sans-serif;
+    margin-top: 8px;
+    font-size: 1.3vw;
+    font-weight: 100;
+}
+
+.subscribe{
+    margin-left:1vw;
+}
+
